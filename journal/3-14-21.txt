@@ -1,0 +1,50 @@
+Today on my run I began thinking about different feature updates I can make to my website. I think if I add a form at the
+end of each journal entry, I can possibly get some feedback from people who read my entries. This is in which case
+I want to make some real improvements on my site. Another thought I had was I could make a direct link to twitter at the
+end of each entry to allow users to tweet at me about specific entries, thoughts I have. This could be fun. I guess I may want
+to start laying out some user stories to complete in my web development.
+
+Simplicity is still key here. I can't clutter my site. The focus has to remain on the content I put out there. One simple 
+piece I could add at the beginning of each entry is a list of maybe two or three words that give the reader an idea
+of what today's journal entry is about. To read in a little bit of why this would be useful, I understand that the only
+person dedicated to my website on a daily basis is me. This way I can share a small bit of information to attract small
+portions of people that might want to hear my thoughts on certain topics.
+
+I was about to go into detail on a judgement of the writing I've done so far, which would amount to roughly 30 minutes
+of continuous typing now. This would obviously be a waste of time. As an alternative, I'll give a brief spiel on the current
+state of my mind. There is a school of thought that would argue that the less I have to say here the better, but I think I'm
+still kind of in the getting-in-touch phase, where making fully-formed descriptions of this can help.
+
+Here I go. "Kyle, how do you describe your mental state right now?"
+
+Right now, I am writing. I am exercising a muscle in my head that causes thoughts to flow, and I'm translating them to words,
+then I'm using my fingers to type.
+
+I don't think I need to go much further than that. I think it's more interesting to share these thoughts.
+
+One thing I've been wanting to do is learn how to do graphic design. Namely, I'd like to be able to make small graphics
+to enhance content on a website, this could be graphic images, patterns, icons, anything. Ideally, I'd like to play with these
+graphics to the point that I making animations with them.
+
+It's interesting the various things you have to learn to fully grasp a thing you want to learn. I guess this could be more a 
+judgement to make on a specific subset of things, and how good you want to be at them. Maybe I set expectations for myself to
+be great at the things I want to learn, but from experience, I'll try to go into a little detail on what I did to get this 
+website in place. As of now, (I might take a picture of the site) It's pretty ugly. I'll put a link to what the website looks like
+here{link}.
+
+When I decided I wanted to make a website, it was seen as a step in the process of producing a podcast of my own. My
+aunt told me she has a domain registered that she does nothing with. I figured I'd have to at least be able to do that.
+She showed me google domains and I saw how you can search domains to see what domains you can register and put content on.
+I told her I would be her web developer if she wanted me to. To fulfill this promise, I knew I had to figure out how
+to host a web app. One thing I understood was that it's somewhat valuable in the tech industry to know how to do AWS computing.
+(My timer went off. I'm going to give myself a few more minutes.) My thought was, the /part/ barrier to entry to doing AWS 
+computing would be doing anything on AWS.
+
+I got on AWS to find out how I can host a web app, to maybe find out how I can put together a site for my podcast.
+This was actually pretty easy (No, there's no podcast, or podcast website yet). All I had to do was create an AWS account,
+and basically tell AWS I want to make an app. Then, AWS gave me the option to link a github repository to the app. I went
+to github and made a repository. I called it kyles-podcasts. I used Visual Studio Code to clone the repository and wrote a
+couple lines of code.
+
+I am going a little long with this. I should maybe continue tomorrow.
+
