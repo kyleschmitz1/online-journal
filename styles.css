@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300&display=swap');
+
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.topnav {
+    background: 
+     linear-gradient(rgba(250, 235, 215, 0.603), rgba(250, 235, 215, 0.603)),
+     url('photos/header-background.jpg');
+    overflow: hidden;
+
+  }
+
+
+.topnav a {
+    float: right;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 20px;
+    padding: 30px 25px 30px 25px;
+    color: rgb(41, 41, 158);
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.topnav a:hover {
+    background-color: rgba(250, 235, 215, 0.800);
+}
+
+.topnav h1 {
+    float: left;
+    font-family: 'IBM Plex Mono', monospace;
+    color: rgb(116, 7, 7);
+    margin-left: 20px;
+    margin-top: 20px;
+}
