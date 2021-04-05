@@ -25,6 +25,8 @@ app.get('/', (req, res) => {
     }]
     res.render('articles/index', {articles: articles})
 })
-app.listen(5000)
+
 
 app.use('/articles', articleRouter)
+
+app.listen(5000)
